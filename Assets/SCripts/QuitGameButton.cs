@@ -1,13 +1,13 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MainMenuManager : MonoBehaviour
+public class QuitGameButton : MonoBehaviour
 {
     [SerializeField] private string gameSceneName = "Game";
 
     private void OnTriggerEnter(Collider other)
     {
-            StartGame();
+        QuitGame();
     }
 
     private void StartGame()

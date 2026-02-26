@@ -1,0 +1,1 @@
+C:\Users\camer\Documents\GITHUB\VR_WELCOME\Name it somthing\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\4k4o6cv5\obj\arm64-v8a

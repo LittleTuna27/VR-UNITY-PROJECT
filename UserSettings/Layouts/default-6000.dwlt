@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1898
     height: 973
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 109
+  controlID: 16
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 71
+  controlID: 17
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 72
+  controlID: 18
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -326,7 +326,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/SCripts
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -336,16 +336,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 62
   m_LastFolders:
-  - Assets/SCripts
+  - Assets/Scenes
   m_LastFoldersGridSize: 62
   m_LastProjectPath: C:\Users\camer\Documents\GITHUB\VR_WELCOME\Name it somthing
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 044b0100
-    m_LastClickedID: 84740
-    m_ExpandedIDs: 00000000a6310100a8310100aa31010000ca9a3b
+    m_SelectedIDs: 34340100
+    m_LastClickedID: 78900
+    m_ExpandedIDs: 00000000be310100c0310100c23101002a34010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -374,7 +374,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a6310100a8310100aa310100
+    m_ExpandedIDs: 00000000be310100c0310100c2310100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -519,10 +519,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 46f8ffff
-      m_LastClickedID: -1978
-      m_ExpandedIDs: 6cf8ffff22fafffff0faffff
+      scrollPos: {x: 0, y: 310}
+      m_SelectedIDs: 1afcfeff
+      m_LastClickedID: -66534
+      m_ExpandedIDs: bef9feff1efcfeffb8fcfeffea50ffff0251ffff4a82ffffcaa5fffffccefffff0faffff304b01003a4b01007c4b01008c4b0100706d0100ce6e0100a87c0100ca7c01002a210200
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -958,9 +958,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 3.7693527, y: 0.8305217, z: 3.5717983}
+    m_Target: {x: -2.8218005, y: 2.2279918, z: 2.9241908}
     speed: 2
-    m_Value: {x: 3.7693527, y: 0.8305217, z: 3.5717983}
+    m_Value: {x: -2.8218005, y: 2.2279918, z: 2.9241908}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1006,13 +1006,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.29418844, y: -0.084510796, z: 0.026110133, w: 0.9516497}
+    m_Target: {x: -0.052667513, y: -0.94736207, z: 0.2226327, w: -0.22408798}
     speed: 2
-    m_Value: {x: 0.29418728, y: -0.08451046, z: 0.02611003, w: 0.951646}
+    m_Value: {x: -0.052666206, y: -0.9473386, z: 0.2226272, w: -0.22408243}
   m_Size:
-    m_Target: 1.1824812
+    m_Target: 0.3408304
     speed: 2
-    m_Value: 1.1824812
+    m_Value: 0.3408304
   m_Ortho:
     m_Target: 0
     speed: 2

@@ -1,0 +1,2 @@
+C:\Users\camer\Documents\GITHUB\VR_WELCOME\Name it somthing\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\camer\Documents\GITHUB\VR_WELCOME\Name it somthing\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

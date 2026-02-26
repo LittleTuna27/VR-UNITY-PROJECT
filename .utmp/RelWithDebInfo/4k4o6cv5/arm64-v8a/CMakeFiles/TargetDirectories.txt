@@ -1,0 +1,5 @@
+C:/Users/camer/Documents/GITHUB/VR_WELCOME/Name it somthing/.utmp/RelWithDebInfo/4k4o6cv5/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/camer/Documents/GITHUB/VR_WELCOME/Name it somthing/.utmp/RelWithDebInfo/4k4o6cv5/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/camer/Documents/GITHUB/VR_WELCOME/Name it somthing/.utmp/RelWithDebInfo/4k4o6cv5/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/camer/Documents/GITHUB/VR_WELCOME/Name it somthing/.utmp/RelWithDebInfo/4k4o6cv5/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/camer/Documents/GITHUB/VR_WELCOME/Name it somthing/.utmp/RelWithDebInfo/4k4o6cv5/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
